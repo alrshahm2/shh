@@ -166,11 +166,11 @@ def banner():
  #        ####  #    #            
  
 ╔══════════════════════════════════════════╗
-║ Creator  : Mohand por            
-جميع الحقوق محفوظه مهند 2022
-║ facebook : https://t.me/libyahack
+║ Creator  : Salem & mohamed            
+جميع الحقوق محفوظه salem& mohamed 2022
+║ facebook : https://t.me/l
 ║ Version  : 0.1                      
-║ FILENAME : Mhh                    
+║ FILENAME : asd                    
 ╚══════════════════════════════════════════╝
 
 """%(P))
